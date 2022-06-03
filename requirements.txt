@@ -1,4 +1,6 @@
 pip==22.1.2
+catboost
+ipywidgets
 pycaret
 streamlit
 pandas
